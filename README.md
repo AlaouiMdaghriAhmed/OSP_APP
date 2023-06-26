@@ -1,16 +1,5 @@
-# first_app
+# OSP_APP
 
-A new Flutter project.
+A Flutter Mobile Application to manage and inform colostomy patients in the objective of improving their Quality of Life.
+![image](https://github.com/AlaouiMdaghriAhmed/OSP_APP/assets/77700915/261f049e-6763-49cd-b5b8-175b5b328552)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
